@@ -1,8 +1,6 @@
 ### Hi there 👋
 Satellite transmission calculations in Libreoffice Calc.
-<!--
-**Satlinker/Satlinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"> <semantics> <mrow> <mrow> <msub> <mi mathvariant="normal">η</mi> <mi>a</mi> </msub> <mo stretchy="false">=</mo> <mfrac> <mrow> <mtext>effective area</mtext> <mspace width="0.5em"></mspace> <msub> <mi>A</mi> <mi>e</mi> </msub> </mrow> <mrow> <mtext>physical aperture area</mtext> <mspace width="0.5em"></mspace> <mi>A</mi> </mrow> </mfrac> </mrow> <mspace width="2em"></mspace> <mtext>with</mtext> <mspace width="0.5em"></mspace> <mrow> <msub> <mi>A</mi> <mi>e</mi> </msub> <mo stretchy="false">=</mo> <mfrac> <mrow> <mtext>terminal power</mtext> <mspace width="0.5em"></mspace> <mrow> <mo fence="true" stretchy="false">[</mo> <mrow> <mi>W</mi> </mrow> <mo fence="true" stretchy="false">]</mo> </mrow> </mrow> <mrow> <mtext>overall power density</mtext> <mspace width="0.5em"></mspace> <mrow> <mo fence="true" stretchy="false">[</mo> <mrow> <mrow> <mi>W</mi> <mo stretchy="false">/</mo> <msup> <mi>m</mi> <mn>2</mn> </msup> </mrow> </mrow> <mo fence="true" stretchy="false">]</mo> </mrow> </mrow> </mfrac> </mrow> </mrow> <annotation encoding="StarMath 5.0">%eta_{a} = {"effective area" `A_{e}} over {"physical aperture area" `A} ~"with" `A_{e} = {"terminal power" `[W]} over {"overall power density" `[W/m^{2}]}</annotation> </semantics> </math></p>
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
