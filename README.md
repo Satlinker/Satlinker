@@ -1,6 +1,5 @@
 ### Hi there 👋
 Satellite transmission calculations in Libreoffice Calc.
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 Here are some ideas to get you started:
 
