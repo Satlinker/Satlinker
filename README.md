@@ -1,6 +1,6 @@
 Read the Satlinker_-_Manual.pdf
 
-Satellite transmission calculations in Libreoffice Calc.
+Satellite transmission calculations in Libreoffice Calc
 
 Calculating satellite links (link-budgets) is hard to do manually. Satlinker is a practical approach to all satellite and ground station related calculations without overhead. To find the satellite, you first need to know the exact direction to it from your location, so a pointing angle calculation to a reference satellite is included. Then you want to know if the connection to the satellite is possible with your equipment. Maybe you want to make transmissions to other countries or even build your own station. Satlinker helps you with all these things. Especially for SNG, Flyaway, respectively Digital Video Broadcast (DVB, DVB-S2) in general, the established modulation methods are included. The program is written in LibreOffice Calc, but unfortunately doesn't support Microsoft Excel any more due to incompatibilities of programming languages. Give LibreOffice a chance, it's almost identical to Excel, freeware and also runs under Linux.
 
