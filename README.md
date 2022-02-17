@@ -1,3 +1,10 @@
+Read the Satlinker_-_Manual.pdf
+
 Satellite transmission calculations in Libreoffice Calc.
 
-Read the Satlinker_-_Manual.pdf
+Calculating satellite links (link-budgets) is hard to do manually. Satlinker is a practical approach to all satellite and ground station related calculations without overhead. To find the satellite, you first need to know the exact direction to it from your location, so a pointing angle calculation to a reference satellite is included. Then you want to know if the connection to the satellite is possible with your equipment. Maybe you want to make transmissions to other countries or even build your own station. Satlinker helps you with all these things. Especially for SNG, Flyaway, respectively Digital Video Broadcast (DVB, DVB-S2) in general, the established modulation methods are included. The program is written in LibreOffice Calc, but unfortunately doesn't support Microsoft Excel any more due to incompatibilities of programming languages. Give LibreOffice a chance, it's almost identical to Excel, freeware and also runs under Linux.
+
+Satlinker is written for technicians, so you should have a basic understanding of that high frequency stuff... Please read the short tutorials, then ask, not vice versa. You can download the program for free from the contact form. I am looking forward to a short message from you, describing who you are and why you need that stuff. Please use only for non-military projects -stay peaceful.
+Satlinker vs Satmaster
+
+Satlinker is a freeware, opensource link-budget calculator. You can verify the whole link-budget calculation and even modify formulas if you want. Satmaster is a commercial program from Arrowe that includes satellite and location databases. For both programs you need an understanding of the whole process. You need data of satellites and ground stations that are not easy to get. You cannot get realistic link-budgets without knowledge, so it's not enough to have a good program! Please take a look at the manual and the overviews of station and propagation to get an idea about the difficulties. If you have any technical problems or look for SNG-training, please contact me.
