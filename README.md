@@ -1,6 +1,6 @@
 More information in the [manual](https://github.com/Satlinker/Satlinker/blob/main/Satlinker%20-%20Manual.pdf)
 
-# Satellite transmission calculations
+# Satellite Transmission, Link Budget Calculations
 Calculating satellite links (link-budgets) is hard to do manually. Satlinker is a practical approach to all satellite and ground station related calculations without overhead. To find the satellite, you first need to know the exact direction to it from your location, so a pointing angle calculation to a reference satellite is included. Then you want to know if the connection to the satellite is possible with your equipment. Maybe you want to make transmissions to other countries or even build your own station. Satlinker helps you with all these things. Especially for SNG, Flyaway, respectively Digital Video Broadcast (DVB, DVB-S2) in general, the established modulation methods are included. The program is written in LibreOffice Calc, but unfortunately doesn't support Microsoft Excel any more due to incompatibilities of programming languages. Give LibreOffice a chance, it's almost identical to Excel, freeware and also runs under Linux.
 
 Satlinker is written for technicians, so you should have a basic understanding of that high frequency stuff... Please read the short tutorials, then ask, not vice versa. You can download the program for free from the contact form. I am looking forward to a short message from you, describing who you are and why you need that stuff. Please use only for non-military projects -stay peaceful.
@@ -23,7 +23,7 @@ Link-budget Calculator
 
 SNG, Satellite, Satellite Transmission, Link-Budget, Link-Budget Calculation, Link-Budget
 
-# Satellitenverbindungen, Link budget Berechnungen
+# Satellitenverbindungen, Link Budget Berechnungen
 Berechnungen von Satellitenverbindungen (Leistungsbilanzen, Leistungsübertragungsbilanzen, Link-budgets) lassen sich nur schwer von Hand durchführen. Satlinker ermöglicht praxisnahe Lösungsansätze bei Berechnungen rund um Satelliten und Bodenstationen ohne unnötigen Ballast. Um den Satelliten zu finden brauchst du die genaue Richtung am eigenen Standort, also wurde eine Winkelberechnung (Pointing) eingebaut die sich auf einen Referenz-Satelliten bezieht. Dann willst du wissen ob die Übertragung mit deinem Equipment möglich ist. Vielleicht machst du Übertragungen in andere Länder oder baust sogar eine eigene Anlage. Satlinker hilft dir bei all diesen Dingen. Speziell für SNG, Flyaway, bzw. Digital Video Broadcast (DVB, DVB-S2) im allgemeinen, sind die gängigen Modulationsverfahren einprogrammiert. Das Programm ist in LibreOffice Calc geschrieben, unterstützt aber leider Microsoft Excel nicht mehr wegen Inkompatibilität der Programmiersprachen. Gib LibreOffice eine Chance, es ist fast identisch mit Excel, Freeware und läuft auch unter Linux.
 
 Satlinker ist für Techniker geschrieben, also sollten Grundlagen in Hochfrequenztechnik vorhanden sein... Bitte erst die kurzen Tutorials lesen, dann fragen, nicht umgekehrt. Das Programm kann kostenlos über das Kontaktformular heruntergeladen werden. Ich freue mich immer über eine kurze Mitteilung, darüber wer du bist und warum du so ein Zeug brauchst. Bitte nur für nichtmilitärische Zwecke verwenden -bleibt friedlich.
